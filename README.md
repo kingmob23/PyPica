@@ -1,6 +1,6 @@
 # PyPica - Command-line Image Processor 
 
-PyPica is a simple command-line image processing tool that supports various operations. It's designed with simplicity and ease of use in mind, providing a variety of essential image processing functions through an intuitive command-line interface.
+PyPica is a command-line image processing tool that supports various operations. It's designed with simplicity and ease of use in mind, providing a variety of essential image processing functions through an intuitive command-line interface.
 
 ## Features
 
